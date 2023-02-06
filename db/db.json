@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "title": "testing title 1",
+        "text": "testing text 1",
+        "id": "99e5"
+    },
+    {
+        "title": "testing title 2",
+        "text": "testing text 2",
+        "id": "6ec3"
+    },
+    {
+        "title": "Shopping list",
+        "text": "apples\nmilk\ncheese\nham\nfruit\nmore fruit",
+        "id": "d911"
+    }
+]
